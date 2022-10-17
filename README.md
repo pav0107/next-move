@@ -1,3 +1,9 @@
+## Next-move
+
+This project has been built using Next.js, Chakra UI and Bayut API, which provided property info.
+
+The finished project can be seen at [next-move-rho.vercel.appp](https://next-move-rho.vercel.app/).
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
