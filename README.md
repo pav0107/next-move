@@ -1,6 +1,6 @@
 ## Next-move
 
-I built this project using Next.js, Chakra UI and [Bayut API](https://rapidapi.com/apidojo/api/bayut/), which provided property info.
+This project is a property app that allows users to search for places to buy or rent. I built it using Next.js, Chakra UI and [Bayut API](https://rapidapi.com/apidojo/api/bayut/), which provided property info.
 
 The finished project can be seen at [next-move-rho.vercel.appp](https://next-move-rho.vercel.app/).
 
@@ -13,4 +13,5 @@ The finished project can be seen at [next-move-rho.vercel.appp](https://next-mov
 - [framer-motion](https://www.npmjs.com/package/framer-motion) for animation.
 - [millify](https://www.npmjs.com/package/millify) to convert long numbers into more readable ones.
 - [nprogress](https://www.npmjs.com/package/nprogress) for a progress bar.
--
+- [react-horizontal-scrolling-menu](https://www.npmjs.com/package/react-horizontal-scrolling-menu) for scrolling images.
+- [react-icons](https://react-icons.github.io/react-icons/)
